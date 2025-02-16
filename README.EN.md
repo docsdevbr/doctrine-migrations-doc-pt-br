@@ -12,7 +12,7 @@ You can support the project through [GitHub Sponsors][sponsor-github] or
 
 ## License
 
-Copyright (c) 2006-2015 Doctrine Project.
+Copyright (c) 2006-2018 Doctrine Project.
 
 Licensed under the [MIT License][license-mit].
 

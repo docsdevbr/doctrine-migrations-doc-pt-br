@@ -12,7 +12,7 @@ Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 
 ## Licença
 
-Copyright (c) 2006-2015 Doctrine Project.
+Copyright (c) 2006-2018 Doctrine Project.
 
 Licenciado sob a [Licença MIT][license-mit].<br>
 A obra original foi traduzida do inglês para o português brasileiro.
